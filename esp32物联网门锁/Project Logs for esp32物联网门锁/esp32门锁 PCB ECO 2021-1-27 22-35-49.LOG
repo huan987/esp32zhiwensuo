@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=IPS_BLK Pin=E1-9
+Removed Pin From Net: NetName=TPC Pin=E1-24
+Removed Pin From Net: NetName=IO16 Pin=P2-6
+Added Pin To Net: NetName=TPC Pin=E1-9
+Added Pin To Net: NetName=IPS_BLK Pin=E1-24
+Added Pin To Net: NetName=IPS_DC Pin=E1-23
+Added Pin To Net: NetName=IPS_DC Pin=P2-6
+Added Pin To Net: NetName=IPS_DC Pin=XH2-2
+Added Net: Name=IPS_DC

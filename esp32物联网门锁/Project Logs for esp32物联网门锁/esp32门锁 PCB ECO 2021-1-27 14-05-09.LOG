@@ -1,0 +1,69 @@
+Removed Pin From Net: NetName=VBUS Pin=AMS1-3
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=VBUS Pin=C8-2
+Removed Pin From Net: NetName=VBUS Pin=C21-1
+Removed Pin From Net: NetName=VIN2 Pin=C22-1
+Removed Pin From Net: NetName=DVP_RST Pin=P2-5
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=BAT Pin=R9-1
+Removed Pin From Net: NetName=GND Pin=R11-2
+Removed Pin From Net: NetName=GND Pin=U1-7
+Removed Pin From Net: NetName=GND Pin=U1-9
+Removed Pin From Net: NetName=VBUS Pin=USB1-A4B9
+Removed Pin From Net: NetName=VBUS Pin=USB1-B4A9
+Removed Pin From Net: NetName=GND Pin=XH1-2
+Removed Pin From Net: NetName=VBUS Pin=XH2-1
+Removed Pin From Net: NetName=VIN2 Pin=XH3-1
+Removed Member From Class: ClassName=esp32门锁 Member=R10
+Removed Member From Class: ClassName=esp32门锁 Member=R11
+Change component parameters: Designator = "C17"; Footprint = "C0603"; UniqueID = "\AKWOVIKU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "accuracy"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "value"; Value = "0.1uf"; VariantName = "[No Variations]"
+Added Component: Designator=K1(KEY-SMD1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SW?(MTS103)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND2 Pin=C1-2
+Added Pin To Net: NetName=GND2 Pin=C2-1
+Added Pin To Net: NetName=GND2 Pin=C3-1
+Added Pin To Net: NetName=GND2 Pin=C4-1
+Added Pin To Net: NetName=GND2 Pin=C5-1
+Added Pin To Net: NetName=GND2 Pin=C6-1
+Added Pin To Net: NetName=GND2 Pin=C7-1
+Added Pin To Net: NetName=E32_RST Pin=C17-2
+Added Pin To Net: NetName=VBUS Pin=C22-1
+Added Pin To Net: NetName=E32_RST Pin=K1-1
+Added Pin To Net: NetName=GND Pin=K1-2
+Added Pin To Net: NetName=GND2 Pin=R2-1
+Added Pin To Net: NetName=E32_RST Pin=R9-1
+Added Pin To Net: NetName=3V3 Pin=R9-2
+Added Pin To Net: NetName=VBUS Pin=SW?-1
+Added Pin To Net: NetName=VIN2 Pin=SW?-2
+Added Pin To Net: NetName=GND2 Pin=U1-7
+Added Pin To Net: NetName=GND2 Pin=U1-9
+Added Pin To Net: NetName=GND2 Pin=XH1-2
+Added Pin To Net: NetName=VBUS Pin=XH3-1
+Change Net Name : Old Net Name=VBUS New Net Name=VIN2
+Change Net Name : Old Net Name=VIN2 New Net Name=OUT2
+Added Pin To Net: NetName=IPS_RES Pin=E1-16
+Added Pin To Net: NetName=IPS_RES Pin=P2-5
+Added Net: Name=IPS_RES
+Added Pin To Net: NetName=VBUS Pin=AMS1-3
+Added Pin To Net: NetName=VBUS Pin=C8-2
+Added Pin To Net: NetName=VBUS Pin=C20-1
+Added Pin To Net: NetName=VBUS Pin=C21-1
+Added Pin To Net: NetName=VBUS Pin=P2-2
+Added Pin To Net: NetName=VBUS Pin=USB1-A4B9
+Added Pin To Net: NetName=VBUS Pin=USB1-B4A9
+Added Pin To Net: NetName=VBUS Pin=XH2-1
+Added Net: Name=VBUS
+Added Member To Class: ClassName=esp32门锁 Member=Component K1 Key-PB
+Added Member To Class: ClassName=esp32门锁 Member=Component SW? SW-SPDT
+Added Room: Name=esp32门锁

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DVP_VSYNC Pin=E1-4
+Removed Pin From Net: NetName=DVP_RST Pin=E1-5
+Added Pin To Net: NetName=DVP_RST Pin=E1-4
+Added Pin To Net: NetName=DVP_VSYNC Pin=E1-5

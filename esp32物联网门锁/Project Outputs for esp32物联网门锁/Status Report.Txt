@@ -1,0 +1,28 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [esp32物联网门锁.PrjPcb]
+   Generated File[esp32门锁.GTO]
+   Generated File[esp32门锁.GTP]
+   Generated File[esp32门锁.GTS]
+   Generated File[esp32门锁.GTL]
+   Generated File[esp32门锁.GBL]
+   Generated File[esp32门锁.GBS]
+   Generated File[esp32门锁.GBP]
+   Generated File[esp32门锁.GBO]
+   Generated File[esp32门锁.GM1]
+   Generated File[esp32门锁.GM13]
+   Generated File[esp32门锁.GM15]
+   Generated File[esp32门锁.GKO]
+   Generated File[esp32门锁.GPT]
+   Generated File[esp32门锁.GPB]
+   Generated File[esp32门锁.GD1]
+   Generated File[esp32门锁.GG1]
+   Generated File[esp32门锁.RUL]
+   Generated File[esp32门锁.EXTREP]
+   Generated File[esp32门锁.REP]
+
+
+Files Generated   : 19
+Documents Printed : 0
+
+Finished Output Generation At 21:55:48 On 2021/1/28

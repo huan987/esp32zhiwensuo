@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=DVP_D7 Pin=E1-6
+Removed Pin From Net: NetName=DVP_D6 Pin=E1-7
+Removed Pin From Net: NetName=DVP_D4 Pin=E1-10
+Removed Pin From Net: NetName=DVP_D0 Pin=E1-29
+Removed Pin From Net: NetName=DVP_D3 Pin=E1-30
+Removed Pin From Net: NetName=DVP_D1 Pin=E1-31
+Removed Pin From Net: NetName=DVP_D2 Pin=E1-33
+Removed Pin From Net: NetName=DVP_PCLK Pin=E1-36
+Removed Pin From Net: NetName=DVP_HSYNC Pin=E1-37
+Removed Pin From Net: NetName=DVP_XCLK Pin=J1-12
+Added Pin To Net: NetName=DVP_HSYNC Pin=E1-6
+Added Pin To Net: NetName=DVP_D7 Pin=E1-7
+Added Pin To Net: NetName=DVP_D6 Pin=E1-10
+Added Pin To Net: NetName=DVP_PCLK Pin=E1-29
+Added Pin To Net: NetName=DVP_D4 Pin=E1-30
+Added Pin To Net: NetName=DVP_D0 Pin=E1-31
+Added Pin To Net: NetName=DVP_D3 Pin=E1-33
+Added Pin To Net: NetName=DVP_D1 Pin=E1-36
+Added Pin To Net: NetName=DVP_D2 Pin=E1-37
+Added Pin To Net: NetName=DVP_XCLK Pin=J1-9
+Change Net Name : Old Net Name=DVP_XCLK New Net Name=DVP_D5
+Added Pin To Net: NetName=DVP_XCLK Pin=E1-8
+Added Pin To Net: NetName=DVP_XCLK Pin=J1-12
+Added Net: Name=DVP_XCLK

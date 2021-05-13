@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=DVP_D1 Pin=E1-30
+Removed Pin From Net: NetName=DVP_D2 Pin=E1-31
+Removed Pin From Net: NetName=DVP_D3 Pin=E1-33
+Added Pin To Net: NetName=DVP_D3 Pin=E1-30
+Added Pin To Net: NetName=DVP_D1 Pin=E1-31
+Added Pin To Net: NetName=DVP_D2 Pin=E1-33

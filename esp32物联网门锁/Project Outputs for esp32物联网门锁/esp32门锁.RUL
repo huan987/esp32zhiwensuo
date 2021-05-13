@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: D:\学校工作\智能门锁\电路板\esp32物联网门锁\esp32物联网门锁\esp32门锁.PcbDoc
+RuleKind=Width|RuleName=pwr|Scope=Board|Minimum=7.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

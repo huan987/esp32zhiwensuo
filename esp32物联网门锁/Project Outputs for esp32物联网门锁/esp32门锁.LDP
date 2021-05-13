@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\学校工作\智能门锁\电路板\esp32物联网门锁\esp32物联网门锁\esp32门锁.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=esp32门锁-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=esp32门锁-slotholes.txt|DrillLayers=gtl,gbl

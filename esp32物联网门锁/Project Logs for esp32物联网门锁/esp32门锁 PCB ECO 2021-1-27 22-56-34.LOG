@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=IPS_DC Pin=E1-23
+Removed Pin From Net: NetName=IPS_DC Pin=XH2-2
+Added Pin To Net: NetName=IPS_DC Pin=E1-16
+Added Pin To Net: NetName=DVP_RST Pin=P2-5
+Added Pin To Net: NetName=PWM Pin=E1-23
+Added Pin To Net: NetName=PWM Pin=XH2-2
+Added Net: Name=PWM
